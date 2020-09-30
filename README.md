@@ -7,28 +7,28 @@ The dataset:
     The available dataset is of the number of air passengers from 1949 to 1960 for every month.
 
 Steps:
-      Reading time series data
-      Plotting time series
-      Decomposing Time series
-      Forecast
-      ARIMA Models
+      Reading time series data,
+      Plotting time series,
+      Decomposing Time series,
+      Forecast,
+      ARIMA Models.
       
 Methods and Tools:
-      Python
-      Advanced Excel
-      ARIMA
-      Augmented Dickey-Fuller Test
-      ACF and PACF
-      Statsmodels
+      Python,
+      Excel,
+      ARIMA,
+      Augmented Dickey-Fuller Test,
+      ACF and PACF,
+      Statsmodels.
       
-Trend component
+Trend:
   Long-run increase or decrease over time (overall upward or downward movement) Trend can be linear or nonlinear such as exponential growth
   
-Seasonality
+Seasonality:
     A seasonal pattern exists when a series is influenced by seasonal factors (e.g., the quarter of the year, the month, or day of the week). 
     Seasonality is always of a fixed and known period.
     
-Stationary Series
+Stationary Series:
     1.The mean of the series should not be a function of time rather should be a constant.
     2.The variance of the series should not a be a function of time. 
     3. The covariance should not be a function of time.
